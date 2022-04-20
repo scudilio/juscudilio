@@ -1,6 +1,6 @@
 #**Juliana**
 
-![ju](url da img)
+![ju](post_abril.jpg)
 
 * Python
 * SAS
